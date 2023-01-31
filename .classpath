@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="sintaxe_basica/src"/>
+	<classpathentry kind="src" path="sintaxe-variaveis-fluxo/src"/>
+	<classpathentry kind="src" path="teste-flutu/src"/>
+	<classpathentry kind="src" path="variaveis-fluxo/src"/>
+	<classpathentry kind="output" path="sintaxe-variaveis-fluxo/bin"/>
+</classpath>
